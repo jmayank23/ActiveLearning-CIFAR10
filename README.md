@@ -7,6 +7,8 @@ This repository contains an example of active learning using PyTorch and the CIF
 
 *Note: In the real setting, the ground truth label would not be displayed when collecting labels for fresh data.*
 
+<br/>
+
 ## Overview
 
 The active learning process is implemented in a loop, where each iteration consists of the following steps:
