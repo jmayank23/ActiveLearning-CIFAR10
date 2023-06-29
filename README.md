@@ -1,10 +1,11 @@
 # Active Learning with PyTorch and CIFAR-10
 
-![collect_labels](https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/de1e9c8d-7f09-40b3-86e1-e7cbbd0fa86a)
-![end_of_active_learning](https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/bfc188f1-0ce8-46cf-bb89-c988fa1cbc15)\
-*Note: In the real setting, the ground truth label would not be displayed when collecting labels for fresh data.*
-
 This repository contains an example of active learning using PyTorch and the CIFAR-10 dataset. It demonstrates how to use a simple active learning approach to improve the performance of a model by iteratively requesting new labels for instances where the model is least confident, then retraining the model with the newly labeled data.
+
+![collect_labels](https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/de1e9c8d-7f09-40b3-86e1-e7cbbd0fa86a)
+![end_of_active_learning](https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/bfc188f1-0ce8-46cf-bb89-c988fa1cbc15)
+
+*Note: In the real setting, the ground truth label would not be displayed when collecting labels for fresh data.*
 
 ## Overview
 
