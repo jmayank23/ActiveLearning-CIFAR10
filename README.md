@@ -4,7 +4,7 @@ This repository contains an example of active learning using PyTorch and the CIF
 
 <div style="display:flex;justify-content:center;">
     <img src="https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/de1e9c8d-7f09-40b3-86e1-e7cbbd0fa86a" alt="collect_labels" width="370";/>
-    <img src="https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/bfc188f1-0ce8-46cf-bb89-c988fa1cbc15" alt="end_of_active_learning" width="390"/>
+    <img src="https://github.com/jmayank23/ActiveLearning_CIFAR10/assets/27727185/bfc188f1-0ce8-46cf-bb89-c988fa1cbc15" alt="end_of_active_learning" width="400"/>
 </div>
 
 *Note: In the real setting, the ground truth label would not be displayed when collecting labels for fresh data.*
